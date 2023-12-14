@@ -1,0 +1,68 @@
+.background
+{
+	background-color:lightgray;
+}
+.column-1
+{
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+.column-2
+{
+	width:50%; 
+	float: right;
+}
+.column-3
+{
+	width:50%;
+	margin-left: 40px;
+	padding-top: 40px;
+}
+.text
+{
+	margin-top: -20px;
+}
+.column-4
+{
+	width:50%;
+	float: right;
+	margin-top: -300px;
+	text-align: center;
+}
+.column-5
+{
+	width:50%;
+	height: 500px;
+	 float:left;
+	 text-align: center;
+}
+.column-6
+{
+	width:50%; float:right;
+}
+.column-7
+{
+	width:50%;
+	margin-left: 60px;
+}
+.column-8
+{
+	width:50%;
+	text-align: center;
+	float: right;
+	margin-top: -400px;
+}
+.column-9
+{
+	width:100% ; 
+	text-align: center;
+}
+.gray
+{
+	color: gray;
+}
+.span1
+{
+	color:skyblue;
+}
